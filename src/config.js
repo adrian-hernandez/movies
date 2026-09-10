@@ -34,47 +34,47 @@ window.movieLibraryConfig = {
       ],
       hasSubtitles: true,
       runtimeMinutes: 90,
-      thumbURL: 'file:///Users/adminacct/Pictures/aladdinthumb.png',
-      logoURL: 'file:///Users/adminacct/Pictures/aladdinthumb.png',
-      keyartURL: 'file:///Users/adminacct/Pictures/aladdinthumb.png',
-      videoFilepath: 'file:///Users/adminacct/Pictures/aladdinthumb.mkv'
-    },
-    {
-      title: 'Alice in Wonderland',
-      sortStr: 'Alice in Wonderland',
-      year: '1951',
-      plot: 'On a golden afternoon, young Alice follows a White Rabbit, who disappears down a nearby rabbit hole. Quickly following him, she tumbles into the burrow - and enters the merry, topsy-turvy world of Wonderland! Memorable songs and whimsical escapades highlight Alice\'s journey, which culminates in a madcap encounter with the Queen of Hearts - and her army of playing cards!',
-      tagline: 'A world of wonders in one great picture!',
-      rating: 'Rated G',
-      genres: [
-        'Animation',
-        'Family',
-        'Fantasy',
-        'Adventure'
-      ],
-      directorNames: [
-        'Hamilton Luske',
-        'Wilfred Jackson',
-        'Clyde Geronimi'
-      ],
-      actorNames: [
-        'Kathryn Beaumont',
-        'Ed Wynn',
-        'Richard Haydn',
-        'Sterling Holloway',
-        'Jerry Colonna',
-        'Verna Felton',
-        'J. Pat O\'Malley',
-        'Bill Thompson',
-        'Heather Angel',
-        'Joseph Kearns'
-      ],
-      hasSubtitles: true,
-      runtimeMinutes: 75,
-      thumbURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png',
-      logoURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png,
-      keyartURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png',
-      videoFilepath: 'file:///Users/adminacct/Pictures/aladdinthumb.mkv'
+      thumbURL: './assets/al.jpg',
+      logoURL: './assets/al.jpg',
+      keyartURL: '#',
+      videoFilepath: '#'
+    // },
+    // {
+    //   title: 'Alice in Wonderland',
+    //   sortStr: 'Alice in Wonderland',
+    //   year: '1951',
+    //   plot: 'On a golden afternoon, young Alice follows a White Rabbit, who disappears down a nearby rabbit hole. Quickly following him, she tumbles into the burrow - and enters the merry, topsy-turvy world of Wonderland! Memorable songs and whimsical escapades highlight Alice\'s journey, which culminates in a madcap encounter with the Queen of Hearts - and her army of playing cards!',
+    //   tagline: 'A world of wonders in one great picture!',
+    //   rating: 'Rated G',
+    //   genres: [
+    //     'Animation',
+    //     'Family',
+    //     'Fantasy',
+    //     'Adventure'
+    //   ],
+    //   directorNames: [
+    //     'Hamilton Luske',
+    //     'Wilfred Jackson',
+    //     'Clyde Geronimi'
+    //   ],
+    //   actorNames: [
+    //     'Kathryn Beaumont',
+    //     'Ed Wynn',
+    //     'Richard Haydn',
+    //     'Sterling Holloway',
+    //     'Jerry Colonna',
+    //     'Verna Felton',
+    //     'J. Pat O\'Malley',
+    //     'Bill Thompson',
+    //     'Heather Angel',
+    //     'Joseph Kearns'
+    //   ],
+    //   hasSubtitles: true,
+    //   runtimeMinutes: 75,
+    //   thumbURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png',
+    //   logoURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png,
+    //   keyartURL: 'file:///Users/adminacct/Pictures/aliceinwonderlandthumb.png',
+    //   videoFilepath: 'file:///Users/adminacct/Pictures/aladdinthumb.mkv'
     },
   ]
 }
