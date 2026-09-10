@@ -1,0 +1,7 @@
+.DS_Store
+config.js
+custom.js
+/tmp
+/node_modules
+npm-debug.log*
+*.zip
